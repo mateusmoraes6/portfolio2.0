@@ -28,7 +28,7 @@ export default function ContactForm() {
       <form action={handleSubmit} className="space-y-4">
         <div>
           <label htmlFor="name" className="block text-sm font-medium mb-2">
-            Name
+            Nome
           </label>
           <Input id="name" name="name" required />
         </div>
@@ -40,12 +40,12 @@ export default function ContactForm() {
         </div>
         <div>
           <label htmlFor="message" className="block text-sm font-medium mb-2">
-            Message
+            Mensagem
           </label>
           <Textarea id="message" name="message" required />
         </div>
         <Button type="submit" className="w-full" disabled={pending}>
-          {pending ? "Sending..." : "Send Message"}
+          {pending ? "Enviando..." : "Enviar mensagem"}
         </Button>
         {message && <p className="text-sm text-center mt-4 text-muted-foreground">{message}</p>}
       </form>

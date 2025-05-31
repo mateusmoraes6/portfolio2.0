@@ -33,7 +33,7 @@ const strengths: Strength[] = [
   {
     icon: BrainCircuit,
     title: "Inteligência Artificial",
-    description: "Usabilidade de inteligència artificial para criar e/ou integrar projetos.",
+    description: "Usabilidade de inteligência artificial para criar e/ou integrar projetos.",
   },
 ]
 
@@ -105,8 +105,7 @@ export default function AboutSection() {
                 }`}
             >
               <p className="text-lg leading-relaxed">
-                Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas. Possuo experiência com desenvolvimento de projetos web completos e análise de dados. Busco constantemente aprimoramento através de participação ativa em eventos, bootcamps e comunidades tech, mantendo-me atualizado com as tecnologias do mercado.
-
+                Desenvolvedor Full Stack em formação, cursando Análise e Desenvolvimento de Sistemas. Desenvolvendo experiência com desenvolvimento de projetos web e análise de dados.
               </p>
 
               <p className="text-lg leading-relaxed">

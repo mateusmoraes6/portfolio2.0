@@ -22,7 +22,7 @@ interface Project {
 const projects: Project[] = [
     {
         id: 1,
-        title: "UI/UX E-commerce",
+        title: "UX/UI E-commerce",
         description: [
             "Plataforma full-stack de e-commerce com Next.js e Tailwind.",
             "UI/UX modernos em harmonia com o Brainding da marca."

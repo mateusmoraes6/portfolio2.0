@@ -16,12 +16,12 @@ export default function Page() {
                   Full Stack Developer
                 </h1>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Construindo experiências digitais com tecnologias modernas.
+                  Desenvolvendo experiências digitais.
                 </p>
               </div>
               <div>
-                <Button variant="default" size="lg" className="mt-4">
-                  Vamos conversar
+                <Button variant="default" size="lg" className="mt-4" asChild>
+                  <a href="#contact">Vamos conversar</a>
                 </Button>
               </div>
             </div>
@@ -49,7 +49,7 @@ export default function Page() {
           <div className="container px-4 md:px-6">
             <div className="mx-auto max-w-2xl">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">
-                Get in Touch
+                Entre em contato
               </h2>
               <ContactForm />
             </div>
