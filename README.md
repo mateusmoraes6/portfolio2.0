@@ -54,8 +54,8 @@ O aplicativo estará rodando em `http://localhost:3000`.
 
 Você pode me encontrar em:
 
-- LinkedIn: [https://www.linkedin.com/in/mateusmoraes6]
-- GitHub: [https://github.com/mateusmoraes6]
-- Email: [contatomateusmoraes6@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/mateusmoraes6
+- GitHub: https://github.com/mateusmoraes6
+- Email: contatomateusmoraes6@gmail.com
 
 ---
